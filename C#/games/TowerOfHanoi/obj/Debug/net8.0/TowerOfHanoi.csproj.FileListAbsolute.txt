@@ -1,0 +1,15 @@
+/workspaces/lab-language/C#/games/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi
+/workspaces/lab-language/C#/games/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.deps.json
+/workspaces/lab-language/C#/games/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.runtimeconfig.json
+/workspaces/lab-language/C#/games/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.dll
+/workspaces/lab-language/C#/games/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.pdb
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.AssemblyInfoInputs.cache
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.AssemblyInfo.cs
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.sourcelink.json
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.dll
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/refint/TowerOfHanoi.dll
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.pdb
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.genruntimeconfig.cache
+/workspaces/lab-language/C#/games/TowerOfHanoi/obj/Debug/net8.0/ref/TowerOfHanoi.dll

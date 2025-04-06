@@ -1,0 +1,15 @@
+/workspaces/lab-language/C#/numbers/OddOrEven/bin/Debug/net8.0/OddOrEven
+/workspaces/lab-language/C#/numbers/OddOrEven/bin/Debug/net8.0/OddOrEven.deps.json
+/workspaces/lab-language/C#/numbers/OddOrEven/bin/Debug/net8.0/OddOrEven.runtimeconfig.json
+/workspaces/lab-language/C#/numbers/OddOrEven/bin/Debug/net8.0/OddOrEven.dll
+/workspaces/lab-language/C#/numbers/OddOrEven/bin/Debug/net8.0/OddOrEven.pdb
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.AssemblyInfoInputs.cache
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.AssemblyInfo.cs
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.csproj.CoreCompileInputs.cache
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.sourcelink.json
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.dll
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/refint/OddOrEven.dll
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.pdb
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/OddOrEven.genruntimeconfig.cache
+/workspaces/lab-language/C#/numbers/OddOrEven/obj/Debug/net8.0/ref/OddOrEven.dll

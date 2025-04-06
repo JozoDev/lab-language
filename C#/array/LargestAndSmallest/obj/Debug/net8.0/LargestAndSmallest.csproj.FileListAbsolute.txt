@@ -1,0 +1,15 @@
+/workspaces/lab-language/C#/array/LargestAndSmallest/bin/Debug/net8.0/LargestAndSmallest
+/workspaces/lab-language/C#/array/LargestAndSmallest/bin/Debug/net8.0/LargestAndSmallest.deps.json
+/workspaces/lab-language/C#/array/LargestAndSmallest/bin/Debug/net8.0/LargestAndSmallest.runtimeconfig.json
+/workspaces/lab-language/C#/array/LargestAndSmallest/bin/Debug/net8.0/LargestAndSmallest.dll
+/workspaces/lab-language/C#/array/LargestAndSmallest/bin/Debug/net8.0/LargestAndSmallest.pdb
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.AssemblyInfoInputs.cache
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.AssemblyInfo.cs
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.csproj.CoreCompileInputs.cache
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.sourcelink.json
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.dll
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/refint/LargestAndSmallest.dll
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.pdb
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/LargestAndSmallest.genruntimeconfig.cache
+/workspaces/lab-language/C#/array/LargestAndSmallest/obj/Debug/net8.0/ref/LargestAndSmallest.dll
